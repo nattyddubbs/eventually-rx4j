@@ -31,10 +31,6 @@ $ ./gradlew test
 
 ## Usage
 
-Usage of this script should be done during the deployment of your application. In order to use this script you will need to
-1. Define your service and routes using the declarative format and save the format in your repository.
-2. Update your .circle.yml file to run a job that will register your service with Kong
-3. Create a job definition that will be run with k8s.
 
 ## Built With
 
